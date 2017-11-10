@@ -1,0 +1,692 @@
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human1_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human1_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human2_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human2_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human3_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human3_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc1_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc1_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc2_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc2_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc3_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc3_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead1_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead1_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead2_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead2_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead3_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead3_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\map\land.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\map\road.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Final01.exe
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Final01.pdb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\obj\x86\Debug\Final01.csprojResolveAssemblyReference.cache
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\obj\x86\Debug\Final01.exe
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\obj\x86\Debug\Final01.pdb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\map\right_human.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\map\under_human.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\map\right_orc.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\map\right_undead.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\map\under_orc.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\map\under_undead.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\human1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\human2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\undead1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\undead2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\modebutton\multi.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\modebutton\multiover.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\modebutton\single.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\modebutton\singleover.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\font\arial.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\orc1.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\orc2.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1over.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2over.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1over.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2over.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1over.xnb
+c:\users\lg\documents\visual studio 2015\Projects\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2over.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human1_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human1_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human2_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human2_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human3_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\human3_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc1_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc1_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc2_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc2_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc3_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\orc3_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead1_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead1_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead2_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead2_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead3_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\unit\undead3_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\map\land.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\map\road.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\map\right_human.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\map\under_human.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\map\right_orc.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\map\right_undead.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\map\under_orc.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\map\under_undead.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\human1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\human2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\orc1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\orc2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\undead1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tribe\undead2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\modebutton\multi.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\modebutton\multiover.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\modebutton\single.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\modebutton\singleover.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1over.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2over.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1over.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2over.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1over.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2over.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\font\arial.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Final01.exe
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Final01.pdb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\obj\x86\Debug\Final01.csprojResolveAssemblyReference.cache
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\obj\x86\Debug\Final01.exe
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\obj\x86\Debug\Final01.pdb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\build.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\click.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\construction.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\flameburst1.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\H_BGM.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\I_BGM.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\O_BGM.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\SQUISH11.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\U_BGM.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\tom2.xnb
+C:\Users\손윤재\Desktop\소실\Final01\Final01\Final01\bin\x86\Debug\Content\media\bomb.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human1_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human1_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human2_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human2_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human3_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human3_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc1_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc1_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc2_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc2_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc3_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc3_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead1_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead1_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead2_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead2_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead3_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead3_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\map\land.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\map\road.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\map\right_human.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\map\under_human.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\map\right_orc.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\map\right_undead.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\map\under_orc.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\map\under_undead.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\human1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\human2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\orc1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\orc2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\undead1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\undead2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\modebutton\multi.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\modebutton\multiover.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\modebutton\single.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\modebutton\singleover.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1over.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2over.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1over.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2over.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1over.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2over.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\font\arial.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\tom2.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\bomb.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\build.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\click.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\construction.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\flameburst1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\H_BGM.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\I_BGM.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\O_BGM.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\SQUISH11.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\media\U_BGM.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Final01.exe
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Final01.pdb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\obj\x86\Debug\Final01.csprojResolveAssemblyReference.cache
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\obj\x86\Debug\Final01.exe
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\obj\x86\Debug\Final01.pdb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3_1.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\map\end.xnb
+C:\Users\lg\Desktop\Final01 (2)\Final01\Final01\bin\x86\Debug\Content\map\heart.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human1_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human1_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human2_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human2_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human3_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human3_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc1_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc1_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc2_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc2_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc3_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc3_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead1_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead1_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead2_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead2_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead3_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead3_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\land.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\road.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\right_human.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\under_human.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\right_orc.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\right_undead.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\under_orc.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\under_undead.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\human1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\human2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\orc1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\orc2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\undead1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\undead2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\modebutton\multi.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\modebutton\multiover.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\modebutton\single.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\modebutton\singleover.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1over.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2over.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1over.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2over.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1over.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2over.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3_1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\end.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\heart.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\arial.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\tom2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\bomb.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\build.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\click.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\construction.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\flameburst1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\H_BGM.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\I_BGM.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\O_BGM.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\SQUISH11.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\U_BGM.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\human1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\human2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\human3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\orc1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\orc2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\orc3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\ouch.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\sirens.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\undead1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\undead2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\undead3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Final01.exe
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Final01.pdb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\obj\x86\Debug\Final01.csprojResolveAssemblyReference.cache
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\obj\x86\Debug\Final01.exe
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\obj\x86\Debug\Final01.pdb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\Attack Human.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\Attack Orc.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\Attack Undead.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\stage1.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\stage2.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\stage3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\stage4.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\stage5.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human1_3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human2_3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human3_3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc1_3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc2_3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc3_3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead1_3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead2_3.xnb
+C:\Users\박영은\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead3_3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human1_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human1_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human2_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human2_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human3_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human3_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc1_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc1_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc2_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc2_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc3_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc3_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead1_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead1_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead2_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead2_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead3_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead3_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\land.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\road.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\right_human.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\under_human.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\right_orc.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\right_undead.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\under_orc.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\under_undead.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\human1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\human2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\orc1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\orc2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\undead1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tribe\undead2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\modebutton\multi.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\modebutton\multiover.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\modebutton\single.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\modebutton\singleover.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1over.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2over.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1over.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2over.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1over.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2over.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3_1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\end.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\map\heart.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\Attack Human.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\Attack Orc.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\Attack Undead.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\stage1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\stage2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\stage3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\stage4.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\stage5.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human1_3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human2_3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\human3_3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc1_3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc2_3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\orc3_3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead1_3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead2_3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\unit\undead3_3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\font\arial.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\tom2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\bomb.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\build.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\click.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\construction.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\flameburst1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\H_BGM.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\I_BGM.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\O_BGM.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\SQUISH11.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\U_BGM.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\human1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\human2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\human3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\orc1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\orc2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\orc3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\ouch.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\sirens.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\undead1.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\undead2.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\undead3.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\fanfare.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\LOSE.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Content\media\STAGE.xnb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Final01.exe
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Final01.pdb
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\obj\x86\Debug\Final01.csprojResolveAssemblyReference.cache
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\obj\x86\Debug\Final01.exe
+C:\Users\손윤재\Desktop\FI8BB9~1\Final01\Final01\obj\x86\Debug\Final01.pdb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human1_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human1_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human2_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human2_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human3_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human3_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc1_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc1_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc2_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc2_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc3_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc3_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead1_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead1_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead2_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead2_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead3_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead3_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\land.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\road.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\right_human.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\under_human.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\right_orc.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\right_undead.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\under_orc.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\under_undead.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\human1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\human2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\orc1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\orc2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\undead1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tribe\undead2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\modebutton\multi.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\modebutton\multiover.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\modebutton\single.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\modebutton\singleover.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1over.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2over.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1over.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2over.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1over.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2over.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3_1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\end.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\heart.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\font\Attack Human.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\font\Attack Orc.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\font\Attack Undead.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\font\stage1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\font\stage2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\font\stage3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\font\stage4.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\font\stage5.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human1_3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human2_3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\human3_3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc1_3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc2_3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\orc3_3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead1_3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead2_3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\unit\undead3_3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\complete.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\map\gameover.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\font\arial.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\tom2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\bomb.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\build.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\click.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\construction.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\flameburst1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\H_BGM.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\I_BGM.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\O_BGM.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\SQUISH11.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\U_BGM.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\human1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\human2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\human3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\orc1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\orc2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\orc3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\ouch.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\sirens.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\undead1.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\undead2.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\undead3.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\fanfare.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\LOSE.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Content\media\STAGE.xnb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Final01.exe
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Final01.pdb
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\obj\x86\Debug\Final01.csprojResolveAssemblyReference.cache
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\obj\x86\Debug\Final01.exe
+C:\Users\lg\Desktop\FI8BB9~1 (2)\Final01\Final01\obj\x86\Debug\Final01.pdb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\human1_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\human1_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\human2_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\human2_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\human3_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\human3_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\orc1_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\orc1_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\orc2_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\orc2_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\orc3_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\orc3_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\undead1_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\undead1_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\undead2_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\undead2_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\undead3_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\undead3_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\land.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\road.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\right_human.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\under_human.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\right_orc.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\right_undead.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\under_orc.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\under_undead.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tribe\human1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tribe\human2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tribe\orc1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tribe\orc2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tribe\undead1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tribe\undead2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\modebutton\multi.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\modebutton\multiover.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\modebutton\single.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\modebutton\singleover.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower1_1over.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower1_2over.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower2_1over.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower2_2over.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower3_1over.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\tower\tower3_2over.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\bullet\bullet1_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\bullet\bullet2_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\bullet\bullet3_1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\end.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\heart.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\font\Attack Human.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\font\Attack Orc.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\font\Attack Undead.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\font\stage1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\font\stage2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\font\stage3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\font\stage4.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\font\stage5.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\human1_3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\human2_3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\human3_3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\orc1_3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\orc2_3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\orc3_3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\undead1_3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\undead2_3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\unit\undead3_3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\complete.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\map\gameover.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\font\arial.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\tom2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\bomb.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\build.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\click.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\construction.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\flameburst1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\H_BGM.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\I_BGM.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\O_BGM.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\SQUISH11.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\U_BGM.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\human1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\human2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\human3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\orc1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\orc2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\orc3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\ouch.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\sirens.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\undead1.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\undead2.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\undead3.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\fanfare.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\LOSE.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Content\media\STAGE.xnb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Final01.exe
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Final01.pdb
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\obj\x86\Debug\Final01.csprojResolveAssemblyReference.cache
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\obj\x86\Debug\Final01.exe
+C:\Users\박영은\Desktop\FINAL\Final01\Final01\obj\x86\Debug\Final01.pdb
